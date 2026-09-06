@@ -7,6 +7,7 @@ PROJECT OVERVIEW
 This project focuses on predicting the resale price of pre-owned cars in the Indian market using Machine Learning.
 
 The project is divided into two main components:
+
 Component 1A: Machine Learning model development and analysis
 Component 1B: Streamlit web application for price prediction
 
@@ -27,9 +28,11 @@ The project requirements specify EDA, preprocessing, model building, evaluation,
 
 # COMPONENT 1A - MACHINE LEARNING NOTEBOOK
 EXPLORATORY DATA ANALYSIS
+
 The training dataset was analyzed to understand the structure and important patterns in the data.
 
 The analysis includes:
+
 Dataset structure and data types
 Missing value analysis
 Duplicate record analysis
@@ -43,7 +46,9 @@ Outlier detection
 Meaningful visualizations were used to understand important patterns and relationships in the dataset.
 
 DATA PREPROCESSING
+
 The following preprocessing steps were performed:
+
 Removed unnecessary spaces from column names
 Handled missing values
 Filled missing body type values as 'Unknown'
@@ -52,6 +57,7 @@ Removed manufacture_year because the Age of car feature provides the same inform
 Applied median imputation to numerical features
 Applied categorical imputation
 Applied One-Hot Encoding to categorical features
+
 MODEL BUILDING
 
 Different regression models were trained and compared:
