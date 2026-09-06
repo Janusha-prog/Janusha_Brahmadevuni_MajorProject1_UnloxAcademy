@@ -9,11 +9,13 @@ This project focuses on predicting the resale price of pre-owned cars in the Ind
 The project is divided into two main components:
 
 Component 1A: Machine Learning model development and analysis
+
 Component 1B: Streamlit web application for price prediction
 
 The system predicts the estimated price of a used car based on its vehicle specifications, usage details, and market-related features.
 
 OBJECTIVE
+
 The main objective of this project is to develop an end-to-end Machine Learning system that can:
 
 Analyze and understand used-car data
