@@ -86,6 +86,7 @@ The trained Machine Learning model was deployed using Streamlit as an interactiv
 The application allows users to enter car details and obtain an estimated resale price.
 
 SINGLE CAR PRICE PREDICTION
+
 Users can provide details such as:
 
 Maker and Model
@@ -105,10 +106,12 @@ Vroom Audit Rating
 After entering the details, the application generates an estimated car price in real time.
 
 FAIR PRICE RANGE
+
 Along with the predicted price, the application provides a dynamic fair price range using a ±5% valuation band.
 This gives the user an approximate price range around the predicted value instead of displaying only a single prediction. This follows the project's valuation banding requirement.
 
 BATCH PREDICTION
+
 The application supports batch prediction using a Test CSV file.
 Users can:
 
@@ -120,12 +123,14 @@ Download the prediction results as a CSV file
 The output contains the required ID and Price columns.
 
 VISUAL INSIGHTS
+
 The application provides simple visual insights using Streamlit charts:
 Age vs Predicted Price
 Distance vs Predicted Price
 These charts help users understand how important vehicle factors are related to predicted prices. The project requirements also include a visual insights dashboard as an enhancement.
 
 TECHNOLOGIES USED
+
 Python
 Pandas
 NumPy
