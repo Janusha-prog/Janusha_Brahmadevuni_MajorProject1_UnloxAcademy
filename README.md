@@ -9,8 +9,7 @@ An ML-based web application that predicts the resale price of pre-owned cars in 
  Try the Live Streamlit App :
 https://major-project-car-price-prediction.streamlit.app/
 
-# INDIAN PRE-OWNED CAR PRICE PREDICTION
-PROJECT OVERVIEW
+# PROJECT OVERVIEW
 
 This project focuses on predicting the resale price of pre-owned cars in the Indian market using Machine Learning.
 
@@ -22,7 +21,7 @@ Component 1B: Streamlit web application for price prediction
 
 The system predicts the estimated price of a used car based on its vehicle specifications, usage details, and market-related features.
 
-OBJECTIVE
+# OBJECTIVE
 
 The main objective of this project is to develop an end-to-end Machine Learning system that can:
 
