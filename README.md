@@ -1,6 +1,14 @@
 # Janusha_Brahmadevuni_MajorProject1_UnloxAcademy
 An end-to-end Machine Learning project for predicting Indian pre-owned car prices based on vehicle and market features, including data analysis, model training, evaluation, and an interactive Streamlit web application for real-time and batch predictions.
 
+# Indian Pre-Owned Car Price Prediction
+
+An ML-based web application that predicts the resale price of pre-owned cars in India.
+
+# Live Demo
+ Try the Live Streamlit App :
+https://major-project-car-price-prediction.streamlit.app/
+
 # INDIAN PRE-OWNED CAR PRICE PREDICTION
 PROJECT OVERVIEW
 
